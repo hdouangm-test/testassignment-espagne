@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h> 
-#include <string.h>
-
 
 /*
 Fonction qui prend en argument 2 entiers n et p.
@@ -35,4 +31,8 @@ int main(void){
 }
 sqdqsdqsdsqdqssq
 dqsdsdqsd
+<<<<<<< HEAD
 dsqdsqdqsdsq
+=======
+
+>>>>>>> bd9121fe57450039e14307a7cfc171902f0b70d9
