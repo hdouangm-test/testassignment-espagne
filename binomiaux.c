@@ -27,6 +27,7 @@ int main(void){
 	scanf("%d", &p);
 	if (p > n){
 		printf("Impossible, p est supérieur à n\n");
+		zefzefzefzefz
 		exit(EXIT_FAILURE);
 	}
 	printf("b(%d, %d) = %d\n", n, p, b(n, p));
